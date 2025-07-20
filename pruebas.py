@@ -7,5 +7,3 @@ print("prueba de la rama pruebas")
 
 print("prueba 2 de la rama pruebas")
 print("hola mundo")
-
-print("prueba flores ")
